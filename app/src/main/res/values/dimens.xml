@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="the_340dp">340dp</dimen>
+    <dimen name="th_60dp">60dp</dimen>
+    <dimen name="the_32dp">32dp</dimen>
+    <dimen name="the_8pt">8pt</dimen>
+    <dimen name="the_16dp">16dp</dimen>
+    <dimen name="the_150dp">150dp</dimen>
+    <dimen name="the_10dp">10dp</dimen>
+</resources>

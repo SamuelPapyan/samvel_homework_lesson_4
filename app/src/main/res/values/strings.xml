@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">samvel_homework_lesson_4</string>
+    <string name="textView1">Hello World1</string>
+    <string name="textView2">Hello Another World</string>
+    <string name="textView3">Little TextView1</string>
+    <string name="textView4">Little TextView2</string>
+
+    <string name="roboto_black">.roboto-black.ttf</string>
+</resources>
